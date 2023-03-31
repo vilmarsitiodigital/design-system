@@ -1,0 +1,2 @@
+import{A as t}from"./index-7513621c.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/vilmarsitiodigital.png",alt:"Vilmar Batista"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},l=["Primary","WithFallback"];export{p as Primary,c as WithFallback,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-ca928d74.js.map
